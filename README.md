@@ -57,18 +57,18 @@ Happy coding and analyzing! 📊👩‍💻👨‍💻🚀
 
 ## 💡 Recommendations 💡
 
-1) Gender-focused Strategy 🚹🚺
+**1)Gender-focused Strategy 🚹🚺**
 - Men tend to spend more than women. The company should prioritize retaining existing male customers and attracting new male customers.
 
-2) Product Category Insight 🛍️
+**2)** **Product Category Insight 🛍️**
 - Products in categories 1, 5, 8, & 11 have the highest purchasing frequency and are favored by customers. The company can consider increasing the promotion and availability of these products, as well as boosting less-purchased items.
 
-3) Marital Status Approach 💑
+**3) Marital Status Approach 💑**
 - Unmarried customers exhibit higher spending compared to married customers. The company should concentrate on attracting and engaging unmarried customers.
 
-4) Targeting Specific Age Group 🎈
+**4) Targeting Specific Age Group 🎈**
 - Customers aged 18-45 contribute more to the spending. To enhance revenue, the company should focus on acquiring customers within this age range.
 
-5) City Category Strategy 🏙️
+**5) City Category Strategy 🏙️**
 - Male customers residing in City_Category C demonstrate higher spending compared to those in City_Category B or A. To increase revenue, the company should consider emphasizing product offerings in City_Category C.  
 
