@@ -1,5 +1,8 @@
 # Business-Case-Walmart---Confidence-Interval-and-CLT
 
+![R](https://github.com/santhosh-spark/Walmart--Confidence-Interval-and-CLT/assets/73495628/99449556-ab45-4ce3-a5fe-79f1f45d095e)
+
+
 # Walmart - Confidence Interval and CLT 📈🛒
 
 Welcome to the Walmart Confidence Interval and Central Limit Theorem (CLT) project! 🚀 In this project, we'll explore customer purchase behavior at Walmart during Black Friday and dive into the world of data analysis to help Walmart make data-driven decisions. 📊
@@ -10,7 +13,7 @@ Walmart is one of the world's largest retail giants, serving over 100 million cu
 
 ## Business Problem 📝🤔
 
-The Walmart management team is keen to understand customer purchase behavior, specifically examining the purchase amount, and how it relates to factors such as gender, age, occupation, and more. They want to answer intriguing questions like: "Do women spend more on Black Friday than men?" Imagine 50 million male and 50 million female customers - what are their spending habits like? 🛒💰
+The Walmart management team is keen to understand customer purchase behaviour, specifically examining the purchase amount, and how it relates to factors such as gender, age, occupation, and more. They want to answer intriguing questions like: "Do women spend more on Black Friday than men?" Imagine 50 million male and 50 million female customers - what are their spending habits like? 🛒💰
 
 ## The Dataset 📦📊
 
@@ -50,3 +53,22 @@ To address this business problem, we'll embark on an exciting data analysis jour
 Let's embark on this data-driven adventure and explore the fascinating world of Walmart's Black Friday shopping data! Feel free to contribute, provide feedback, or star this repository if you find it helpful. 🌟🤗
 
 Happy coding and analyzing! 📊👩‍💻👨‍💻🚀
+
+
+## 💡 Recommendations 💡
+
+1) Gender-focused Strategy 🚹🚺
+- Men tend to spend more than women. The company should prioritize retaining existing male customers and attracting new male customers.
+
+2) Product Category Insight 🛍️
+- Products in categories 1, 5, 8, & 11 have the highest purchasing frequency and are favored by customers. The company can consider increasing the promotion and availability of these products, as well as boosting less-purchased items.
+
+3) Marital Status Approach 💑
+- Unmarried customers exhibit higher spending compared to married customers. The company should concentrate on attracting and engaging unmarried customers.
+
+4) Targeting Specific Age Group 🎈
+- Customers aged 18-45 contribute more to the spending. To enhance revenue, the company should focus on acquiring customers within this age range.
+
+5) City Category Strategy 🏙️
+- Male customers residing in City_Category C demonstrate higher spending compared to those in City_Category B or A. To increase revenue, the company should consider emphasizing product offerings in City_Category C.  
+
